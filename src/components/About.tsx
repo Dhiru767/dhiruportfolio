@@ -33,18 +33,6 @@ const About = () => {
           <div className="animate-fade-in-up">
             <Card className="card-gradient card-hover">
               <CardContent className="p-8">
-                {/* Profile Photo */}
-                <div className="flex justify-center mb-8">
-                  <div className="relative">
-                    <img
-                      src="/src/assets/dhiraj-photo.jpg"
-                      alt="Dhiraj Bohara - Professional Photo"
-                      className="w-40 h-40 rounded-full object-cover border-4 border-primary/20 shadow-lg"
-                    />
-                    <div className="absolute inset-0 rounded-full hero-gradient opacity-20"></div>
-                  </div>
-                </div>
-                
                 <div className="flex items-center gap-4 mb-6">
                   <div className="p-3 hero-gradient rounded-lg">
                     <BookOpen className="text-primary-foreground" size={24} />
