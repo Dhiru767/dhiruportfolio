@@ -17,7 +17,7 @@ const Portfolio = () => {
     {
       title: "Hospital Management System",
       description: "Comprehensive system for managing patient and staff data with streamlined operations, appointment scheduling, and medical records management.",
-      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=500&q=80",
+      image: "/src/assets/hospital-management.jpg",
       technologies: ["Python", "MySQL", "Flask", "Healthcare IT"],
       category: "Full-Stack",
       link: "#",
