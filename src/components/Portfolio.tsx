@@ -35,7 +35,7 @@ const Portfolio = () => {
     {
       title: "Arduino-Based IoT Projects",
       description: "Hardware-software interfacing projects featuring sensor integration, automation prototypes, and smart home solutions.",
-      image: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=500&q=80",
+      image: "/src/assets/arduino-project.jpg",
       technologies: ["Arduino", "C++", "Sensors", "IoT", "Automation"],
       category: "Hardware",
       link: "#",
